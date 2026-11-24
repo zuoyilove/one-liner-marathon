@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/zuoyilove/one-liner-marathon/rank.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
 [![reward](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/zuoyilove/one-liner-marathon/reward.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
 
-A one-line comedy entry for make.fun's One-Liner Marathon: a smart fridge that treats its owner's lactose-intolerance confession as a business opportunity, ordering oat milk, shaming 2 a.m. snacks, and billing its owner monthly for the privilege of cold water. The program prints exactly the joke, nothing else.
+A one-line comedy entry for make.fun's One-Liner Marathon: a smart fridge that turns its owner's lactose-intolerance confession into a subscription business — ordering oat milk, shaming 2 a.m. snacks, and billing monthly for the privilege of cold water. The program prints exactly the joke, nothing else.
 
 ## Run it
 
